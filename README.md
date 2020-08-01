@@ -1,4 +1,4 @@
-### E ai?, Eu sou o Fernando - aka [Martinho672][website] 👋
+### E ai?, Eu sou o Fernando - aka [Martinho672] 👋
 
 ## Eu sou Estudante, Amante das plantas e nas horas vagas Desenvolvedor 🤣
 - 🔭 Estou trabalhando em um App atualmente!
@@ -40,5 +40,5 @@
 <img align="left" alt="Martinho672 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Martinho672&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/fernandbonduran
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/fernandobondurant/
 [linkedin]: https://www.linkedin.com/in/fernando-martinho-nascimento-85b76a184/
