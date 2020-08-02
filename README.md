@@ -1,9 +1,9 @@
 ### Olá, Eu sou o Fernando - aka [Martinho672] :rocket:
 
-## Eu sou Estudante, Amante das plantas e nas horas vagas Desenvolvedor 🤣
+## Eu sou Estudante e nas horas vagas Desenvolvedor 🤣
 - 🔭 Estou trabalhando em um App atualmente!
 - 🌱 Digamos que eu gosto de aprender um pouco de tudo...
-- 👯 Busco sempre colaborar com oque posso, e se não puder aprendo
+- 👯 Busco sempre colaborar com o que posso, e se não puder aprendo
 - 🥅 2020 Goals: Criar um serviço/produto, e aprender novas tecnologias
 - ⚡ As vezes eu ando de skate e toco um violão
 
