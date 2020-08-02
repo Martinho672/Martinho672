@@ -33,12 +33,13 @@
 
 <img align="left" alt="Martinho672 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Martinho672&show_icons=true&hide_border=true" />
 
-[twitter]: https://twitter.com/fernandbonduran
-[instagram]: https://www.instagram.com/fernandobondurant/
-[linkedin]: https://www.linkedin.com/in/fernando-martinho-nascimento-85b76a184/
-
 <br />
 
 ---
 - :rocket: Ao infinito e além
 ---
+[twitter]: https://twitter.com/fernandbonduran
+[instagram]: https://www.instagram.com/fernandobondurant/
+[linkedin]: https://www.linkedin.com/in/fernando-martinho-nascimento-85b76a184/
+
+
