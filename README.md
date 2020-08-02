@@ -1,4 +1,4 @@
-### Olá, Eu sou o Fernando - aka [Martinho672] :rocket:
+### Olá, Eu sou o Fernando -  [Martinho672] :rocket:
 
 ## Eu sou Estudante e nas horas vagas Desenvolvedor 🤣
 - 🔭 Estou trabalhando em um App atualmente!
