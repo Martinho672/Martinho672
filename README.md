@@ -1,6 +1,6 @@
 ### E ai?, Eu sou o Fernando -  [Martinho672] 👋
 
-## Eu sou Estudante, Amante das plantas e nas horas vagas Desenvolvedor 🤣
+## Eu sou Estudante e nas horas vagas Desenvolvedor 🤣
 - 🔭 Estou trabalhando em um App atualmente!
 - 🌱 Digamos que eu gosto de aprender um pouco de tudo...
 - 👯 Busco sempre colaborar com o que posso, e se não puder aprendo
