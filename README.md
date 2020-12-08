@@ -1,11 +1,11 @@
 ### Olá, Eu sou o Fernando -  [Martinho672] :rocket:
 
 ## Eu sou Estudante e nas horas vagas Desenvolvedor 🤣
-- 🔭 Estou trabalhando em um App atualmente!
+- 🔭 Estou trabalhando no desenvolvimento Mobile atualmente com Flutter
 - 🌱 Digamos que eu gosto de aprender um pouco de tudo...
-- 👯 Busco sempre colaborar com o que posso, e se não puder aprendo
+- 👯 Busco sempre colaborar com o que posso, e se não puder, descubro uma nova forma.
 - 🥅 2020 Goals: Criar um serviço/produto, e aprender novas tecnologias
-- ⚡ As vezes eu ando de skate e toco um violão
+- ⚡ Pratico Inglês nas horas vagas
 
 ### Vamos nos conectar:
 
