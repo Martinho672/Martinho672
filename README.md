@@ -1,4 +1,4 @@
-#<samp> Olá, Eu sou o Fernando</samp> :rocket:
+<samp> Olá, Eu sou o Fernando</samp> :rocket:
 
 ## Eu sou Estudante e Desenvolvedor 
 - 🔭 Estou trabalhando no desenvolvimento Mobile atualmente com Flutter
