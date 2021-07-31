@@ -4,7 +4,7 @@
 - 🔭 Estou trabalhando no desenvolvimento Mobile atualmente com Flutter
 - 🌱 Digamos que eu gosto de aprender um pouco de tudo...
 - 👯 Busco sempre colaborar com o que posso, e se não puder, descubro uma nova forma.
-- 🥅 2020 Goals: Criar um serviço/produto, e aprender novas tecnologias
+- 🥅 2021 Goals: Desenvolver mais projetos Mobile's 
 - ⚡ Pratico Inglês nas horas vagas
 
 ### Vamos nos conectar:
@@ -39,3 +39,6 @@
 [twitter]: https://twitter.com/fernandbonduran
 [instagram]: https://www.instagram.com/fernandobondurant/
 [linkedin]: https://www.linkedin.com/in/fernando-martinho-nascimento-85b76a184/
+
+
+![Snake animation] (https://github.com/Martinho672/Martinho672/blob/output/github-contribuition-grid-snake.svg)
