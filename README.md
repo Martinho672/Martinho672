@@ -35,15 +35,12 @@
 <br />
 <br />
 
-<div>
-<img align="left" alt="Martinho Github Stats" src="https://github-readme-stats.vercel.app/api?username=Martinho672&show_icons=true&hide_border=true" />
-
-
-
 [twitter]: https://twitter.com/fernandbonduran
 [instagram]: https://www.instagram.com/fernandobondurant/
 [linkedin]: https://www.linkedin.com/in/fernando-martinho-nascimento-85b76a184/
 
+<div>
+<img align="left" alt="Martinho Github Stats" src="https://github-readme-stats.vercel.app/api?username=Martinho672&show_icons=true&hide_border=true" />
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)</div>
 
 
