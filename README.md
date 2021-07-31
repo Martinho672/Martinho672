@@ -9,13 +9,13 @@
 
 ### Vamos nos conectar:
 
-<div>
+
 [<img align="left" alt="Martinho672 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Martinho672 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Martinho672 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-  </div>
+  
 
 ### Linguagens e Ferramentas que utilizo:
 
@@ -34,10 +34,10 @@
 
 <br />
 <br />
-
 [twitter]: https://twitter.com/fernandbonduran
 [instagram]: https://www.instagram.com/fernandobondurant/
 [linkedin]: https://www.linkedin.com/in/fernando-martinho-nascimento-85b76a184/
+
 
 <div>
 <img align="left" alt="Martinho Github Stats" src="https://github-readme-stats.vercel.app/api?username=Martinho672&show_icons=true&hide_border=true" />
