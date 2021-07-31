@@ -42,6 +42,6 @@
 [instagram]: https://www.instagram.com/fernandobondurant/
 [linkedin]: https://www.linkedin.com/in/fernando-martinho-nascimento-85b76a184/
 
-![Snake animation](https://github.com/Martinho672/Martinho672/blob/output/github-contribuition-grid-snake.svg)
+![Snake animation](https://github.com/Martinho672/Martinho672/blob/output/github-contribuition-grid-snake.svg) 
 
 
