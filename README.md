@@ -3,7 +3,6 @@
 ### Eu sou Estudante e Desenvolvedor 
 - 🔭 Estou trabalhando no desenvolvimento Mobile atualmente com Flutter
 - 🌱 Digamos que eu gosto de aprender um pouco de tudo...
-- 👯 Busco sempre colaborar com o que posso, e se não puder, descubro uma nova forma.
 - 🥅 2021 Goals: Desenvolver mais projetos Mobile's 
 - ⚡ Pratico Inglês nas horas vagas
 
