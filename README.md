@@ -11,6 +11,7 @@
 
 [<img align="left" alt="Martinho672 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Martinho672 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Martinho672 | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/5988/5988512.png"/>][portfolio]
 
 <br />
   
@@ -32,6 +33,7 @@
 [twitter]: https://twitter.com/fernandbonduran
 [instagram]: https://www.instagram.com/fernandobondurant/
 [linkedin]: https://www.linkedin.com/in/fernando-martinho-nascimento-85b76a184/
+[portfolio]: https://martinho672.github.io/
 
 <br />
 <br />
